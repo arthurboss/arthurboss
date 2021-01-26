@@ -1,4 +1,10 @@
-### Hi there 👋
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/arthurboss/)
+
+### Hey there! 👋
+
+I'm Arthur, frontend developer currently living in Berlin and working for [heycar](https://hey.car/).
+
+Fascinated by technology, long time computer technician/enthusiast and currently exploring the web development world. I seek to go beyond my limits to combine my passion for hardware with the learnings of web and software development to diminish humanitarian and environmental issues.
 
 <!--
 **arthurboss/arthurboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
