@@ -1,4 +1,5 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/arthurboss/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/arthurboss/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat-square&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/arthurboss_/)
 
 ### Hey there! 👋
 
