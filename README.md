@@ -3,6 +3,7 @@
 ### Hey there! 👋
 
 I'm Arthur, frontend / Javascript developer currently living in Berlin and working for [heycar](https://hey.car/).
+
 Fascinated by technology, I pursue to combine my passion and experience with hardware and software to help diminishing humanitarian and environmental issues, making the world a more sustainable place 🌱.
 
 <!--
