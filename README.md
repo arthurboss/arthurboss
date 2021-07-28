@@ -1,11 +1,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/arthurboss/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat-square&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/arthurboss_/)
 
 ### Hey there! 👋
 
-I'm Arthur, frontend developer currently living in Berlin and working for [heycar](https://hey.car/).
+I'm Arthur, Javascript/Frontend developer currently living in Berlin and working for [heycar](https://hey.car/).
 
-Fascinated by technology, long time computer technician/enthusiast and currently exploring the web development world. I seek to go beyond my limits to combine my passion for hardware with the learnings of web and software development to diminish humanitarian and environmental issues.
+Fascinated by technology and a long time computer technician, I also have an extensive knowledge on computer hardware and seek to go beyond my limits to combine my passion and experience in hardware and software to help diminishing humanitarian and environmental issues, making use of the limitless potential of technology.
 
 <!--
 **arthurboss/arthurboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
