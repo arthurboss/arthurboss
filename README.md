@@ -32,7 +32,7 @@ Summing up, I spend lots of time and money trying many different things technolo
 
 ## Experiences and Interests
 
-### Web development
+**Web development**
 - [Typescript](https://www.typescriptlang.org/);
 - [Gatsby.js](https://www.gatsbyjs.com/);
 - [Next.js](https://nextjs.org/);
@@ -64,7 +64,7 @@ Summing up, I spend lots of time and money trying many different things technolo
 - HTML5;
 - CSS3;
 
-### Other
+**Other tech/topics**
 - C;
 - C++;
 - C#;
