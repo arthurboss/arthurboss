@@ -11,14 +11,20 @@ Fascinated by technology, I pursue to combine my passion and experience with har
 #### A bit more about me
 
 Some of my favourite hobbies are to beta (or alpha) test and benchmark things.
+
 A great example is Windows, as I am part of the beta testing community since Windows 8 (user since Windows 95, hardcore user since Windows 98), and have always helped improving the SO by testing it in various machines and providing feedbacks. Perhaps the only person to have loved Windows Vista too. And yes, I do love Linux and these I am surviving with MacOS.
+
 Furthermore, I loved swapping cellphones OS's before smartphones were even a thing (Motorola L6 was my favourite), as well as testing modded versions of Android since version 1.0 (got better after cyanogenmod 💙), or jailbreaking iPhones and such things 🙂.
+
 Currently I am beta testing Windows 11, Edge chromium on MacOS (since the first release), beta versions of Firefox, Safari..., also cool gaming solutions like nVidia's Geforce Now and anything I find the time and willingness to test software-wise.
+
 
 Additionally I spend a good amount of time in life benchmarking hardware by assembling different PC/laptop configurations or putting up crazy combinations per times. I got to benchmark the first ever unnoficial e-GPU in the market (exp GDC) in multiple laptops configs, from low to top, which btw, for the low-config ones I manually upgraded their CPUs and tried different cooling solutions. Recently I have added the "dangerous" liquid metal to help on my laptops thermals.
 I also own a small collection of laptop CPUs and RAM modules.
 
+
 Summing up, I spend lots of time and money trying many different things technology offers, not limited to the ones mentioned above. I see it as the best investment for learning.
+
 
 ## Experiences and Interests
 
