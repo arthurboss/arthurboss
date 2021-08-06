@@ -18,7 +18,7 @@ As of hobbies, some of my favourites are to beta (or alpha) test and benchmark t
 
 A great example is Windows, as I am part of the beta testing community since Windows 8 (user since Windows 95, hardcore user since Windows 98), and have always helped improving the SO by testing it in various machines and providing feedbacks. Perhaps the only person to have loved Windows Vista too. And yes, I do love Linux and these I am surviving with MacOS.
 
-Furthermore, I loved swapping cellphones OS's before smartphones were even a thing (Motorola L6 was my favourite), as well as testing modded versions of Android since version 1.0 (got better after cyanogenmod 💙), or jailbreaking iPhones and such things 🙂.
+Furthermore, I loved swapping cellphones OS's before smartphones were even a thing (Motorola L6 was my favourite), as well as testing modded versions of Android since version 1.0 (but only got real after cyanogenmod), jailbreaking iPhones and such things 🙂.
 
 Currently I am beta testing Windows 11, Edge chromium on MacOS (since the first release), beta versions of Firefox, Safari..., also cool gaming solutions like nVidia's Geforce Now and anything I find the time and willingness to test software-wise.
 
