@@ -8,7 +8,7 @@ Fascinated by technology, I pursue to combine my passion and experience with har
 
 <q>My passion is to open up new paths by doing what others around me are not trying. That is where true learning lies!</q>
 
-#### ...a bit more about me
+#### A bit more about me
 
 Some of my favourite hobbies are to beta (or alpha) test and benchmark things.
 A great example is Windows, as I am part of the beta testing community since Windows 8 (user since Windows 95, hardcore user since Windows 98), and have always helped improving the SO by testing it in various machines and providing feedbacks. Perhaps the only person to have loved Windows Vista too. And yes, I do love Linux and these I am surviving with MacOS.
