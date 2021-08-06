@@ -10,7 +10,11 @@ Fascinated by technology, I pursue to combine my passion and experience with har
 
 #### A bit more about me
 
-Some of my favourite hobbies are to beta (or alpha) test and benchmark things.
+As this is my long term goal, I do follow/research topics on how to help the environment, especially restoring dry environments. 
+
+I come from a tropical country, and seeing the variety of life it brings and richness of water available, I wish that everyone could experience that and not suffer with the drawbacks of completely dry (or dried) places. Additionally, I am amazed by renewable evergy. Life is a cycle, so is energy. I believe it can be reused everywhere and technology solutions are infinite to help on that.
+
+As of hobbies, some of my favourites are to beta (or alpha) test and benchmark things.
 
 A great example is Windows, as I am part of the beta testing community since Windows 8 (user since Windows 95, hardcore user since Windows 98), and have always helped improving the SO by testing it in various machines and providing feedbacks. Perhaps the only person to have loved Windows Vista too. And yes, I do love Linux and these I am surviving with MacOS.
 
@@ -40,7 +44,7 @@ Summing up, I spend lots of time and money trying many different things technolo
 - [Babel.js](https://babeljs.io/);
 - [Three.js](https://threejs.org/);
 
-** related **
+**related**
 - [GraphQL](https://graphql.org/);
 - [Node.js](https://nodejs.org/en/);
 - [React Native](https://reactnative.dev/);
@@ -49,11 +53,11 @@ Summing up, I spend lots of time and money trying many different things technolo
 - [Web assembly](https://webassembly.org/);
 - SEO and website benchmarking...;
 
-** monorepo and code splitting: **
+**monorepo and code splitting**
 - [Lerna](https://lerna.js.org/);
 - [Yarn workspaces](https://classic.yarnpkg.com/en/docs/workspaces/);
 
-** basics **
+**basics**
 - UI libraries;
 - Design patterns;
 - Javascript;
