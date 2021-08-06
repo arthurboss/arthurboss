@@ -12,43 +12,43 @@ Fascinated by technology, I pursue to combine my passion and experience with har
 ## Experiences and Interests
 
 **Web development**
-- [Typescript](https://www.typescriptlang.org/);
-- [Gatsby.js](https://www.gatsbyjs.com/);
-- [Next.js](https://nextjs.org/);
-- [Storybook.js](https://storybook.js.org/);
-- [React.js](https://reactjs.org/);
-- [Webpack.js](https://webpack.js.org/);
-- [Redux.js](https://redux.js.org/);
-- [Jest.js](https://jestjs.io/);
-- [Babel.js](https://babeljs.io/);
-- [Three.js](https://threejs.org/);
+- [Typescript](https://www.typescriptlang.org/)
+- [Gatsby.js](https://www.gatsbyjs.com/)
+- [Next.js](https://nextjs.org/)
+- [Storybook.js](https://storybook.js.org/)
+- [React.js](https://reactjs.org/)
+- [Webpack.js](https://webpack.js.org/)
+- [Redux.js](https://redux.js.org/)
+- [Jest.js](https://jestjs.io/)
+- [Babel.js](https://babeljs.io/)
+- [Three.js](https://threejs.org/)
 
 **related**
-- [GraphQL](https://graphql.org/);
-- [Node.js](https://nodejs.org/en/);
-- [React Native](https://reactnative.dev/);
-- [Circle CI](https://circleci.com/);
-- [Lighthouse](https://developers.google.com/web/tools/lighthouse);
-- [Web assembly](https://webassembly.org/);
-- SEO and website benchmarking...;
+- [GraphQL](https://graphql.org/)
+- [Node.js](https://nodejs.org/en/)
+- [React Native](https://reactnative.dev/)
+- [Circle CI](https://circleci.com/)
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+- [Web assembly](https://webassembly.org/)
+- SEO and website benchmarking...
 
 **monorepo and code splitting**
-- [Lerna](https://lerna.js.org/);
-- [Yarn workspaces](https://classic.yarnpkg.com/en/docs/workspaces/);
+- [Lerna](https://lerna.js.org/)
+- [Yarn workspaces](https://classic.yarnpkg.com/en/docs/workspaces/)
 
 **basics**
-- UI libraries;
-- Design patterns;
-- Javascript;
-- HTML5;
-- CSS3;
+- UI libraries
+- Design patterns
+- Javascript
+- HTML5
+- CSS3
 
 **Other tech/topics**
-- C;
-- C++;
-- C#;
-- [WebOS](https://www.webosose.org/);
-- OS's low-level customisations (Android, iOS, Windows, Linux, MacOS...).
+- C
+- C++
+- C#
+- [WebOS](https://www.webosose.org/)
+- OS's low-level customisations (Android, iOS, Windows, Linux, MacOS...)
 
 #### A bit more about me
 
