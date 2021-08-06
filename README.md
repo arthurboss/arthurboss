@@ -6,7 +6,7 @@ I'm Arthur, frontend / Javascript developer currently living in Berlin and worki
 
 Fascinated by technology, I pursue to combine my experiences with hardware and software to help diminishing environmental issues, making the world a more sustainable place 🌱.
 
-<q>My passion is to open up new paths by doing what others around me are not trying. That is where true learning lies!</q>
+<q>My passion is to open up new paths by doing what others around me are not trying. That is where true learning and progress lies!</q>
 
 
 ## Experiences and Interests
