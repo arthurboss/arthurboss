@@ -4,7 +4,7 @@
 
 I'm Arthur, frontend / Javascript developer currently living in Berlin and working for [heycar](https://hey.car/).
 
-Fascinated by technology, I pursue to combine my passion and experience with hardware and software to help diminishing humanitarian and environmental issues, making the world a more sustainable place 🌱.
+Fascinated by technology, I pursue to combine my passion and experience with hardware and software to help diminishing environmental issues, making the world a more sustainable place 🌱.
 
 <q>My passion is to open up new paths by doing what others around me are not trying. That is where true learning lies!</q>
 
