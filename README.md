@@ -22,12 +22,13 @@ Furthermore, I loved swapping cellphones OS's before smartphones were even a thi
 
 Currently I am beta testing Windows 11, Edge chromium on MacOS (since the first release), beta versions of Firefox, Safari..., also cool gaming solutions like nVidia's Geforce Now and anything I find the time and willingness to test software-wise.
 
-
-Additionally I spend a good amount of time in life benchmarking hardware by assembling different PC/laptop configurations or putting up crazy combinations per times. I got to benchmark the first ever unnoficial e-GPU in the market (exp GDC) in multiple laptops configs, from low to top, which btw, for the low-config ones I manually upgraded their CPUs and tried different cooling solutions. Recently I have added the "dangerous" liquid metal to help on my laptops thermals.
+Additionally, I spend a good amount of time in life benchmarking hardware by assembling different PC/laptop configurations or putting up crazy combinations per times. GPUs, CPUs, RAM modules, hard disks, anything PCI-E, cables...everything can be benchmarked. Software used were uncountable, but I am a fan of Unigine Heaven or testing all sort of games for that.
+Back in time, I got to test the first ever unnoficial e-GPU in the market (exp GDC) in multiple laptops configs, from low to top, which btw, for the low-config ones I manually upgraded their CPUs and tried different cooling solutions. Recently I have added the "dangerous" liquid metal to help on my laptops thermals.
 I also own a small collection of laptop CPUs and RAM modules.
 
+I spend lots of time and money trying many different things technology offers, not limited to the ones mentioned above. I see it as the best investment for learning.
 
-Summing up, I spend lots of time and money trying many different things technology offers, not limited to the ones mentioned above. I see it as the best investment for learning.
+I also am fond of photography, playing guitar, going for unusual distances walks, bike downhill, car drifting, etc...
 
 
 ## Experiences and Interests
