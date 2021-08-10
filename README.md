@@ -57,6 +57,7 @@ Fascinated by technology, I pursue to combine my experiences with hardware and s
 - [GraphQL](https://graphql.org/)
 - [Node.js](https://nodejs.org/en/)
 - [React Native](https://reactnative.dev/)
+- [Electron.js](https://www.electronjs.org/)
 - [Circle CI](https://circleci.com/)
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 - [Web assembly](https://webassembly.org/)
