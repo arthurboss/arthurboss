@@ -9,7 +9,7 @@ Fascinated by technology, I pursue to combine my experiences with hardware and s
 <q><em>My passion is to open up new paths, explore alternatives. That is where lies true learning!</em></q>
 
 <details>
-  <summary><b>about me, the extended version</b></summary>
+  <summary><b>more about me</b></summary>
   
   <br />
   As this is my long term goal, I do follow/research topics on how to help the environment, especially restoring dry environments.
