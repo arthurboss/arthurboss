@@ -10,8 +10,6 @@ I'm Arthur, frontend / Javascript developer currently living in Berlin and worki
 
 Fascinated by technology, I pursue to combine my experiences with hardware and software to help diminishing environmental issues, making the world a more sustainable place.
 
-<q><em>My passion is to open up new paths, explore alternatives. That is where lies true learning!</em></q>
-
 ## Tech stack
 
 The collection below represents some of the core web technologies which I currently make use of or have started with and have high motivation in learning further.
