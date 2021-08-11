@@ -62,6 +62,7 @@ The collection below represents some of the core web technologies which I curren
   
   - SEO and benchmarking ([Lighthouse](https://developers.google.com/web/tools/lighthouse), ...)
   - code splitting ([Lerna](https://lerna.js.org/), [Yarn workspaces](https://classic.yarnpkg.com/en/docs/workspaces/), ...)
+  - [Web Components](https://www.webcomponents.org/)
   - UI frameworks ([Material UI](https://material-ui.com/), [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/), ...)
   
 </details>
