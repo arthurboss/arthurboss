@@ -1,4 +1,8 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/arthurboss/)
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurboss/)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/arthurboss)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurboss_)
 
 ### Hey there! 👋
 
@@ -8,84 +12,57 @@ Fascinated by technology, I pursue to combine my experiences with hardware and s
 
 <q><em>My passion is to open up new paths, explore alternatives. That is where lies true learning!</em></q>
 
-<details>
-  <summary><b>more about me</b></summary>
-  
-  <br />
-  As this is my long term goal, I do follow/research topics on how to help the environment, especially restoring dry environments.
+## Tech stack
 
-  I come from a tropical country, and seeing the variety of life it brings and richness of water available, I wish that everyone could experience that and not suffer with the drawbacks of completely dry (or dried) places. Additionally, I am amazed by renewable evergy. Life is a cycle, so is energy. I believe it can be reused everywhere and technology solutions are infinite to help on that.
+The collection below represents some of the core web technologies which I currently make use of or have started with and have high motivation in learning further.
 
-  As of hobbies, some of my favourites are to beta (or alpha) test and benchmark things.
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-A00098?style=for-the-badge&logo=graphql)](https://graphql.org/)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
-  A great example is Windows, as I am part of the beta testing community since Windows 8 (user since Windows 95, hardcore user since Windows 98), and have always helped improving the SO by testing it in various machines and providing feedbacks. Perhaps the only person to have loved Windows Vista too. And yes, I do love Linux and these I am surviving with MacOS.
+[![Web assembly](https://img.shields.io/badge/-Web%20Assembly-black?style=for-the-badge&logo=appveyor)](https://webassembly.org/)
 
-  Furthermore, I loved swapping cellphones OS's before smartphones were even a thing (Motorola L6 was my favourite), as well as testing modded versions of Android since version 1.0 (but only got real after cyanogenmod), jailbreaking iPhones and such things 🙂.
+### Frameworks, Platforms and Libraries
+[![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Gatsby.js](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com/)
+[![Redux.js](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 
-  Currently I am beta testing Windows 11, Edge chromium on MacOS (since the first release), beta versions of Firefox, Safari..., also cool gaming solutions like nVidia's Geforce Now and anything I find the time and willingness to test software-wise.
+[![Storybook.js](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/)
+[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)](https://www.cypress.io/)
+[![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)](https://testing-library.com/docs/react-testing-library/intro/)
 
-  Additionally, I spend a good amount of time in life benchmarking hardware by assembling different PC/laptop configurations or putting up crazy combinations per times. GPUs, CPUs, RAM modules, hard disks, anything PCI-E, cables...everything can be benchmarked. Software used were uncountable, but I am a fan of Unigine Heaven or testing all sort of games for that.
-  Back in time, I got to test the first ever unnoficial e-GPU in the market (exp GDC) in multiple laptops configs, from low to top, which btw, for the low-config ones I manually upgraded their CPUs and tried different cooling solutions. Recently I have added the "dangerous" liquid metal to help on my laptops thermals.
-  I also own a small collection of laptop CPUs and RAM modules.
+[![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
+[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-  I tend to invest time and money trying many different things technology offers, not limited to the ones mentioned above. I see it as the best approach for real learning.
+[![Webpack.js](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
+[![Babel.js](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
 
-  I am also fond of photography, playing guitar, going for unusual distances walks, bike downhill, car drifting, etc...
-  
-</details>
+[![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
+[![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)](https://www.electronjs.org/)
+[![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
+[![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 
-
-## Experiences and Interests
-
-<details>
-  <summary><b>web development</b></summary>
-
-  <br />
-  
-- [Typescript](https://www.typescriptlang.org/)
-- [Gatsby.js](https://www.gatsbyjs.com/)
-- [Next.js](https://nextjs.org/)
-- [Storybook.js](https://storybook.js.org/)
-- [React.js](https://reactjs.org/)
-- [Webpack.js](https://webpack.js.org/)
-- [Redux.js](https://redux.js.org/)
-- [Jest.js](https://jestjs.io/)
-- [Babel.js](https://babeljs.io/)
-- [Three.js](https://threejs.org/)
-
-**related**
-- [GraphQL](https://graphql.org/)
-- [Node.js](https://nodejs.org/en/)
-- [React Native](https://reactnative.dev/)
-- [Electron.js](https://www.electronjs.org/)
-- [Circle CI](https://circleci.com/)
-- [Lighthouse](https://developers.google.com/web/tools/lighthouse)
-- [Web assembly](https://webassembly.org/)
-- SEO and website benchmarking...
-
-**monorepo and code splitting**
-- [Lerna](https://lerna.js.org/)
-- [Yarn workspaces](https://classic.yarnpkg.com/en/docs/workspaces/)
-
-**basics**
-- UI libraries
-- Design patterns
-- Javascript
-- HTML5
-- CSS3
-  
-</details>
+### CMS
+[![Contentful](https://img.shields.io/badge/-contentful-%23ffda00?style=for-the-badge&logo=appveyor)](https://www.contentful.com/)
+[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.com/)
 
 <details>
-  <summary><b>other technologies</b></summary>
+  <summary><b>further tools and topics of interest</b></summary>
   
   <br />
   
-- C
-- C++
-- C#
-- [WebOS](https://www.webosose.org/)
-- OS's low-level customisations (Android, iOS, Windows, Linux, MacOS...)
+  - SEO and benchmarking ([Lighthouse](https://developers.google.com/web/tools/lighthouse), ...)
+  - code splitting ([Lerna](https://lerna.js.org/), [Yarn workspaces](https://classic.yarnpkg.com/en/docs/workspaces/), ...)
+  - UI frameworks ([Material UI](https://material-ui.com/), [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/), ...)
   
 </details>
 
