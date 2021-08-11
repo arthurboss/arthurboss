@@ -4,11 +4,11 @@
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/arthurboss)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurboss_)
 
-### Hey there! 👋
+### Howdy!
 
 I'm Arthur, frontend / Javascript developer currently living in Berlin and working for [heycar](https://hey.car/).
 
-Fascinated by technology, I pursue to combine my experiences with hardware and software to help diminishing environmental issues, making the world a more sustainable place 🌱.
+Fascinated by technology, I pursue to combine my experiences with hardware and software to help diminishing environmental issues, making the world a more sustainable place.
 
 <q><em>My passion is to open up new paths, explore alternatives. That is where lies true learning!</em></q>
 
