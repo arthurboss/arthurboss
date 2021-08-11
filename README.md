@@ -12,7 +12,7 @@ Fascinated by technology, I pursue to combine my experiences with hardware and s
 
 ## Tech stack
 
-The collection below represents some of the core web technologies which I currently make use of or have started with and have high motivation in learning further.
+The collection below represents *some* of the core web technologies which I currently make use of or have started with and have high motivation in learning further.
 
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
