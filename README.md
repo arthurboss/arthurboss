@@ -2,7 +2,7 @@
 
 ## Howdy!
 
-I'm Arthur, Frontend / Javascript developer with over 4 and a half years of experience and currently living in Norway 🇳🇴
+I'm Arthur, Frontend / Javascript developer with over 5 years of experience and currently living in Norway 🇳🇴
 
 ### Tech Stack Experience
 
