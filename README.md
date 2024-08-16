@@ -6,7 +6,7 @@ I'm Arthur, Frontend / Javascript developer with over 5 years of experience. I h
 
 ### Tech Stack Experience
 
-Below are some relevant Frontend technologies which I have experience with. Most I used on a daily basis in a production environment:
+Below are some relevant technologies which I have experience with. Most I used on a daily basis in a production environment:
 
 **Languages:** **[TypeScript](https://www.typescriptlang.org/)** | **[JavaScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)**
 | **[HTML5](https://html.spec.whatwg.org/)** | **[CSS3](https://www.w3.org/TR/CSS/#css)** | **[YAML](https://yaml.org/)** | **[JSON](https://www.json.org/json-en.html)** | **[Markdown](https://daringfireball.net/projects/markdown/)** | [GraphQL](https://graphql.org/) | [Web Assembly](https://webassembly.org/)
