@@ -33,6 +33,8 @@ Below are some relevant technologies which I have experience with. Most I used o
 
 **Other:** **[Redux](https://redux.js.org/)** | **[React Router](https://reactrouter.com/)** | [Web Components](https://www.webcomponents.org/)
 
+I'm also an early adopter of many technologies, as I love to test and contribute to projects with my feedbacks. Good examples are: Github Copilot (in AI), and a long long time Windows Insider user (even before Windows 10).
+
 <!--
 **arthurboss/arthurboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
