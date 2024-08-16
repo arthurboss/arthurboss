@@ -2,7 +2,7 @@
 
 ## Howdy!
 
-I'm Arthur, Frontend / Javascript developer with over 5 years of experience. I have a vast international experience and I'm currently located in Lisbon, Portugal.
+I'm Arthur, Frontend / Javascript developer with over 5 years of experience. I have a vast international and intercultural experience and I'm currently located in Lisbon, Portugal.
 
 ### Tech Stack Experience
 
