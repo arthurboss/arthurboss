@@ -15,7 +15,7 @@ Below are some relevant technologies which I have experience with. Most I used o
 
 **Frameworks:** **[Next](https://nextjs.org/)** | [Gatsby](https://www.gatsbyjs.com/) | [Express](https://expressjs.com/) | [React Native](https://reactnative.dev/) | [Vue](https://vuejs.org/) | [Electron](https://www.electronjs.org/)
 
-**Libraries:** **[React](https://reactjs.org/)** | [Three.js](https://threejs.org/) | [GraphQL](https://graphql.org/)
+**Libraries:** **[React](https://reactjs.org/)** | [Three.js](https://threejs.org/)
 
 **Platforms (CI/CD):** **[CircleCI](https://circleci.com/)**
 
