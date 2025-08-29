@@ -9,11 +9,14 @@ Early adopter, clean UX advocate, and builder of user + developer-first experien
 A minimalist fullstack chord viewer for beginner and hobbyist guitarists. 
 Designed for distraction-free practice, powered by smart scraping and a clean monorepo.
 
+### 🔬 Curious & Experimental
+On the side, experimenting with [WebAssembly](https://webassembly.org/) and the fresh [WebGPU API](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)—diving into low-level performance and modern browser graphics.
+
 ### 🧬 Ethos
 
 🧠 Dev Mindset
 
-🧪 Early adopter enthusiast — from  Windows Insider builds to Copilot
+🧪 Early adopter enthusiast — from Windows Insider builds, AI tools to WASM and modern browser APIs.
 
 🧼 Obsessed with clean UX and maintainable architecture
 
